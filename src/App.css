@@ -108,6 +108,7 @@ span:hover {
     display: none;
   }
   header {
+    position: fixed;
     background-color: #212529;
   }
   .navbar{
